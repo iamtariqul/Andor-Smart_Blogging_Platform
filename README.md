@@ -1,2 +1,2 @@
-# Blog
-Publish your passions your way. Whether you'd like to share your knowledge, experiences or the latest news, create a unique and beautiful blog.
+# Andor
+Blogs are often interactive and include sections at the bottom of individual blog posts where readers can leave comments.
